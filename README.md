@@ -1,2 +1,2 @@
 # estevanmaito-jsgame
-Jogo feito com JavaScript
+Jogo feito com JavaScript ensinado por Estevan Maito.
